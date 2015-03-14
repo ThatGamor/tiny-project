@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" style="text/css" href="style.css">
+</head>
+<body>
+<h1>&nbsp&nbspMy Homepage</h1>
+<ul id="nav">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Websites</a></li>
+    <li><a href="#">Games</a></li>
+    <li><a href="#">Homework</a></li>
+</ul>
+<div id="hbox1">
+    <h2>Home</h2>
+    <p>Welcome to my homepage where this is private to Michael O'Gorman and possibly some
+special people.  If you would like to refresh the page for some random reason click <a href="#">here.</a></p>
+</div>
+<div id="hbox2">
+    <h2>Websites</h2>
+    <p>These are some of Michaels most prized possesion websites.  If you would like to be redirected to the webpage on these sites please click <a href="#">here.</a></p>
+</div>
+<div id="hbox3">
+    <h2>Games</h2>
+    <p>This is where I keep my links to games that I play.  Though none of my games are browser based so how about I link there websites.  That could also fall in the section of websites but who cares just click <a href="#">here!</a></p>
+</div>
+<div id="hbox4">
+    <h2>Homework</h2>
+    <p>I keep all my homework in here like the links to my school website which I won't be giving out to any of you.  So yeah click <a href="#">here.</a></p>
+</div>
+</body>
+</html>
